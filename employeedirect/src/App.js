@@ -1,20 +1,19 @@
-import React, { useState, useEffect } from "react";
-import Table from "./Table";
+import React from "react";
+import Main from "./components/Main";
+import Wrapper from "./components/Wrapper";
+import Header from "./components/Header";
+
 import './App.css';
 
 function App() {
-  const [data, setData] = useState([]);
-
-  useEffect(() => {
-    (async () => {
-      const result = await axios("https://randomuser.me/api/");
-      setData(result.data);
-    })();
-  }, []);
-
   return (
-    <div className="App"></div>
-  );
+    <div className="App">
+      <Wrapper>
+        <Header />
+        <Main />
+      </Wrapper>
+    </div>
+  )
 }
 
 export default App;
