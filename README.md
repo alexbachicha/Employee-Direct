@@ -35,7 +35,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in the brows
 
 ## Usage
 
-View the Employee-Direct employee directory on [GitHub Pages](). 
+View the Employee-Direct on [GitHub Pages](). 
 
 ## License 
 
@@ -43,7 +43,7 @@ Licensed under the [MIT License](license.txt)
 
 ## Credits
 
-* This project was boostrapped with [Create React App]([Create React App](https://github.com/facebook/create-react-app))
+* This project was boostrapped with [Create React App](https://github.com/facebook/create-react-app))
 * [Create React App docs for GitHub deployment](https://create-react-app.dev/docs/deployment/#github-pages)
 * UC Davis Full Stack Flex Coding Bootcamp Instructor and TA's
 * [Random User API Generator](https://randomuser.me/)
