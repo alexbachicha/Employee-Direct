@@ -43,7 +43,7 @@ Licensed under the [MIT License](license.txt)
 
 ## Credits
 
-* This project was boostrapped with [Create React App](https://github.com/facebook/create-react-app))
+* This project was boostrapped with [Create React App](https://github.com/facebook/create-react-app)
 * [Create React App docs for GitHub deployment](https://create-react-app.dev/docs/deployment/#github-pages)
 * UC Davis Full Stack Flex Coding Bootcamp Instructor and TA's
 * [Random User API Generator](https://randomuser.me/)
